@@ -9,7 +9,7 @@ DB_NAME is the name of the database to connect with
 */
 const DB_HOST		= "localhost";			
 const DB_USER		= "sam";	// <-- add your MySQL userame here
-const DB_PASS		= "Chichi";	// <-- add your MySQL password here
+const DB_PASS		= "PassWord";	// <-- add your MySQL password here
 const DB_NAME		= "bcit";
 
 /* 
